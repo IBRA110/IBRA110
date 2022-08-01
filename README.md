@@ -14,14 +14,17 @@
 <img src='images/rxjs.png'>
 </div>
 <h4>Back-end</h4>
+<div class='end'>
 <img src='images/csharp.png'>
 <img src='images/python.png'>
 <img src='images/django.png'>
+</div>
 <h4>Tools</h4>
+<div class='end'>
 <img src='images/linux.png'>
 <img src='images/debian.png'>
 <img src='images/git.png'>
 <img src='images/github.png'>
 <img src='images/docker.png'>
 <img src='images/postman.png'>
-
+</div>
