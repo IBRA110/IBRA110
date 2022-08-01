@@ -23,6 +23,7 @@
 <div class='end'>
 <img src='images/linux.png'>
 <img src='images/debian.png'>
+<img src='images/bash.png'>
 <img src='images/git.png'>
 <img src='images/github.png'>
 <img src='images/docker.png'>
