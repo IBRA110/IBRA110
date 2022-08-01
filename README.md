@@ -5,16 +5,14 @@
 <h1>Hi there I'm a Front-end developer</h1>
 <h3>Technology stack</h3>
 <h4>Front-end</h4>
+<div class='end'>
 <img src='images/html5.png'>
-
-
 <img src='images/css3.png'>
 <img src='images/javascript.png'>
 <img src='images/typescript.png'>
 <img src='images/angular.png'>
-
 <img src='images/rxjs.png'>
-
+</div>
 <h4>Back-end</h4>
 <img src='images/csharp.png'>
 <img src='images/python.png'>
