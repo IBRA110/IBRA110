@@ -13,7 +13,7 @@
 <img src='images/angular.png'>
 <img src='images/rxjs.png'>
 </div>
-<h4>Back-end</h4>
+<h4>Learning</h4>
 <div class='end'>
 <img src='images/csharp.png'>
 <img src='images/python.png'>
