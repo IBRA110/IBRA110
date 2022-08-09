@@ -29,3 +29,4 @@
 <img src='images/docker.png'>
 <img src='images/postman.png'>
 </div>
+[![Ibrahims's GitHub stats](https://github-readme-stats.vercel.app/api?username=IBRA110&count_private=true&show_icons=true&theme=dracula)](https://github.com/siberfx/github-readme-stats)
