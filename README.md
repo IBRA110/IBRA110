@@ -1,7 +1,7 @@
 <head>
 	<link rel="stylesheet" href="css/style.css">
 </head>
-"https://giphy.com/embed/zOvBKUUEERdNm" 
+ 
 <h1>Hi there I'm a Front-end developer</h1>
 <h3>Technology stack</h3>
 <h4>Front-end</h4>
@@ -29,4 +29,4 @@
 <img src='images/docker.png'>
 <img src='images/postman.png'>
 </div>
-[![Ibrahims's GitHub stats](https://github-readme-stats.vercel.app/api?username=IBRA110&count_private=true&show_icons=true&theme=dracula)](https://github.com/siberfx/github-readme-stats)
+
