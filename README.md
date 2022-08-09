@@ -1,7 +1,8 @@
-<iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>
 <head>
 	<link rel="stylesheet" href="css/style.css">
 </head>
+<iframe src="https://giphy.com/embed/zOvBKUUEERdNm" width="479" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-zOvBKUUEERdNm">via GIPHY</a></p>
+
 <h1>Hi there I'm a Front-end developer</h1>
 <h3>Technology stack</h3>
 <h4>Front-end</h4>
