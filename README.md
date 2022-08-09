@@ -3,6 +3,10 @@
 </head>
  
 <h1>Hi there I'm a Front-end developer</h1>
+<h3>Contact</h3>
+<a href="https://www.facebook.com/mamedovprogrammer/">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
+</a>
 <h3>Technology stack</h3>
 <h4>Front-end</h4>
 <div class='end'>
