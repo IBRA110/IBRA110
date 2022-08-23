@@ -25,10 +25,11 @@
 <img src='images/angular.png'>
 <img src='images/rxjs.png'>
 </div>
-<h4>Back-end</h4>
+<h4>Learning</h4>
 <div class='end'>
 <img src='images/csharp.png'>
 <img src='images/netCore.png'>
+<img src='images/vue.png'>
 </div>
 <h4>Tools</h4>
 <div class='end'>
@@ -42,10 +43,6 @@
 <img src='images/github.png'>
 <img src='images/docker.png'>
 <img src='images/postman.png'>
-</div>
-<h4>Learning</h4>
-<div class='end'>
-<img src='images/vue.png'>
 </div>
 <h4>Seldom I use</h4>
 <div class='end'>
