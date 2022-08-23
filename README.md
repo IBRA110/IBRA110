@@ -25,20 +25,30 @@
 <img src='images/angular.png'>
 <img src='images/rxjs.png'>
 </div>
-<h4>Learning</h4>
+<h4>Back-end</h4>
 <div class='end'>
 <img src='images/csharp.png'>
-<img src='images/python.png'>
-<img src='images/django.png'>
+<img src='images/netCore.png'>
 </div>
 <h4>Tools</h4>
 <div class='end'>
 <img src='images/linux.png'>
 <img src='images/debian.png'>
 <img src='images/bash.png'>
+<img src='images/vim.png'>
+<img src='images/neovim.png'>
+<img src='images/vscode.png'>
 <img src='images/git.png'>
 <img src='images/github.png'>
 <img src='images/docker.png'>
 <img src='images/postman.png'>
 </div>
-
+<h4>Learning</h4>
+<div class='end'>
+<img src='images/vue.png'>
+</div>
+<h4>Seldom I use</h4>
+<div class='end'>
+<img src='images/python.png'>
+<img src='images/django.png'>
+</div>
