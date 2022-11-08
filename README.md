@@ -51,8 +51,6 @@
 </div>
 
 ## 𝗦𝘁𝗮𝘁𝘀
-<div style='display: flex;'>
 ![IBRA110 github stats](https://github-readme-stats.vercel.app/api?username=IBRA110&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![IBRA110 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IBRA110&layout=compact&count_private=true&theme=gruvbox)
-</div>
 
