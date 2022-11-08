@@ -25,13 +25,17 @@
 <img src='images/angular.png'>
 <img src='images/rxjs.png'>
 </div>
+
 ## Learning
+
 <div class='end'>
 <img src='images/csharp.png'>
 <img src='images/netCore.png'>
 <img src='images/vue.png'>
 </div>
+
 ## Tools
+
 <div class='end'>
 <img src='images/linux.png'>
 <img src='images/debian.png'>
@@ -44,7 +48,9 @@
 <img src='images/docker.png'>
 <img src='images/postman.png'>
 </div>
+
 ## Seldom I use
+
 <div class='end'>
 <img src='images/python.png'>
 <img src='images/django.png'>
