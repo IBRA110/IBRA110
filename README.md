@@ -5,6 +5,8 @@
 # Hi there 👋 I'm a Front-end developer
 
 ## Contact
+<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
+
 
 <a href="https://www.facebook.com/mamedovprogrammer/" target='_blank'>
 		<img align="left" alt="Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
@@ -16,8 +18,6 @@
 </br>
 
 ## Technology stack
-
-<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ## Front-end
 
