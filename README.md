@@ -2,7 +2,7 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
  
-<h1>Hi there I'm a Front-end developer</h1>
+# Hi there 👋 I'm a Front-end developer
 <h3>Contact</h3>
 
 <a href="https://www.facebook.com/mamedovprogrammer/" target='_blank'>
@@ -14,9 +14,9 @@
 
 </br>
 
-<h3>Technology stack</h3>
+## Technology stack
 
-<h4>Front-end</h4>
+## Front-end
 <div class='end'>
 <img src='images/html5.png'>
 <img src='images/css3.png'>
@@ -25,13 +25,13 @@
 <img src='images/angular.png'>
 <img src='images/rxjs.png'>
 </div>
-<h4>Learning</h4>
+## Learning
 <div class='end'>
 <img src='images/csharp.png'>
 <img src='images/netCore.png'>
 <img src='images/vue.png'>
 </div>
-<h4>Tools</h4>
+## Tools
 <div class='end'>
 <img src='images/linux.png'>
 <img src='images/debian.png'>
@@ -44,7 +44,7 @@
 <img src='images/docker.png'>
 <img src='images/postman.png'>
 </div>
-<h4>Seldom I use</h4>
+## Seldom I use
 <div class='end'>
 <img src='images/python.png'>
 <img src='images/django.png'>
