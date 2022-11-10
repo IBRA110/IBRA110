@@ -5,7 +5,7 @@
 # Hi there 👋 I'm a Front-end developer
 
 ## Contact
-<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="350" height="220" />
 
 
 <a href="https://www.facebook.com/mamedovprogrammer/" target='_blank'>
