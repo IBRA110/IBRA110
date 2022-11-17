@@ -5,8 +5,6 @@
 # Hi there 👋 I'm a Front-end developer
 
 ## Contact
-<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
-
 
 <a href="https://www.facebook.com/mamedovprogrammer/" target='_blank'>
 		<img align="left" alt="Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
@@ -21,6 +19,9 @@
 
 ## Front-end
 
+<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="350" height="220" />
+
+
 <div class='end'>
 <img src='images/html5.png'>
 <img src='images/css3.png'>
@@ -28,6 +29,8 @@
 <img src='images/typescript.png'>
 <img src='images/angular.png'>
 <img src='images/rxjs.png'>
+<img src='images/ngrx.png'>
+<img src='images/graphql.png'>
 </div>
 
 ## Learning
@@ -35,7 +38,6 @@
 <div class='end'>
 <img src='images/csharp.png'>
 <img src='images/netCore.png'>
-<img src='images/vue.png'>
 </div>
 
 ## Tools

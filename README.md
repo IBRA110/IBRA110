@@ -29,6 +29,8 @@
 <img src='images/typescript.png'>
 <img src='images/angular.png'>
 <img src='images/rxjs.png'>
+<img src='images/ngrx.png'>
+<img src='images/graphql.png'>
 </div>
 
 ## Learning
@@ -36,7 +38,6 @@
 <div class='end'>
 <img src='images/csharp.png'>
 <img src='images/netCore.png'>
-<img src='images/vue.png'>
 </div>
 
 ## Tools
