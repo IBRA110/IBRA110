@@ -23,43 +23,43 @@
 
 
 <div class='end'>
-<img src='images/html5.png'>
-<img src='images/css3.png'>
-<img src='images/javascript.png'>
-<img src='images/typescript.png'>
-<img src='images/angular.png'>
-<img src='images/rxjs.png'>
-<img src='images/ngrx.png'>
-<img src='images/graphql.png'>
+<img src='images/html5.png' style="width: 50px; height: 50px;">
+<img src='images/css3.png' style="width: 50px; height: 50px;">
+<img src='images/javascript.png' style="width: 50px; height: 50px;">
+<img src='images/typescript.png' style="width: 50px; height: 50px;">
+<img src='images/angular.png' style="width: 50px; height: 50px;">
+<img src='images/rxjs.png' style="width: 50px; height: 50px;">
+<img src='images/ngrx.png' style="width: 50px; height: 50px;">
+<img src='images/graphql.png' style="width: 50px; height: 50px;">
 </div>
 
 ## Learning
 
 <div class='end'>
-<img src='images/csharp.png' style="width: 300px; height: 300px;">
-<img src='images/netCore.png'>
+<img src='images/csharp.png' style="width: 50px; height: 50px;">
+<img src='images/netCore.png' style="width: 50px; height: 50px;">
 </div>
 
 ## Tools
 
 <div class='end'>
-<img src='images/linux.png'>
-<img src='images/debian.png'>
-<img src='images/bash.png'>
-<img src='images/vim.png'>
-<img src='images/neovim.png'>
-<img src='images/vscode.png'>
-<img src='images/git.png'>
-<img src='images/github.png'>
-<img src='images/docker.png'>
-<img src='images/postman.png'>
+<img src='images/linux.png' style="width: 50px; height: 50px;">
+<img src='images/debian.png' style="width: 50px; height: 50px;">
+<img src='images/bash.png' style="width: 50px; height: 50px;">
+<img src='images/vim.png' style="width: 50px; height: 50px;">
+<img src='images/neovim.png' style="width: 50px; height: 50px;">
+<img src='images/vscode.png' style="width: 50px; height: 50px;">
+<img src='images/git.png' style="width: 50px; height: 50px;">
+<img src='images/github.png' style="width: 50px; height: 50px;">
+<img src='images/docker.png' style="width: 50px; height: 50px;">
+<img src='images/postman.png' style="width: 50px; height: 50px;">
 </div>
 
 ## Seldom I use
 
 <div class='end'>
-<img src='images/python.png'>
-<img src='images/django.png'>
+<img src='images/python.png' style="width: 50px; height: 50px;">
+<img src='images/django.png' style="width: 50px; height: 50px;">
 </div>
 
 ## 𝗦𝘁𝗮𝘁𝘀
