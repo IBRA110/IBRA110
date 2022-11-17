@@ -36,7 +36,7 @@
 ## Learning
 
 <div class='end'>
-<img src='images/csharp.png'>
+<img src='images/csharp.png' style="width: 300px; height: 300px;">
 <img src='images/netCore.png'>
 </div>
 
