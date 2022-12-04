@@ -31,6 +31,7 @@
 <img src='images/rxjs.png' style="width: 50px; height: 50px;">
 <img src='images/ngrx.png' style="width: 52px; height: 52px;">
 <img src='images/graphql.png' style="width: 50px; height: 50px;">
+<img src='images/restApi.png' style="width: 50px; height: 50px;">
 </div>
 
 ## Learning
