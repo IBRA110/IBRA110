@@ -12,8 +12,11 @@
 <a href="https://t.me/IbraGMan" target='_blank'>
 	<img src="https://img.shields.io/badge/telegram-Ibrahim-14aae5?logo=telegram" />
 </a>
+
+<a href="https://wa.me/905372614107" target='_blank'>
+	<img src="https://img.shields.io/badge/whatsapp-whastapp-%2325D366?logo=whatsapp" />
+</a>
 </div>
-</br>
 
 ## Technology stack
 
