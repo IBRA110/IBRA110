@@ -5,7 +5,7 @@
 # Hi there 👋 I'm a Front-end developer
 
 ## Contact
-<div style="display: flex;"
+<div style="display: flex;">
 <a href="https://www.facebook.com/mamedovprogrammer/" target='_blank'>
 	<img src="https://img.shields.io/badge/facebook-Ibrahim-%231877F2?logo=facebook">
 </a>
