@@ -66,5 +66,5 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 ![IBRA110 github stats](https://github-readme-stats.vercel.app/api?username=IBRA110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![IBRA110 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IBRA110&layout=compact&count_private=true&theme=gruvbox)
+![IBRA110 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IBRA110&layout=compact&count_private=true&theme=tokyonight)
 
