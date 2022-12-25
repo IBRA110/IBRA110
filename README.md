@@ -6,7 +6,7 @@
 
 ## Contact
 <div style="display: flex;"
-<a href="https://facebook.com/mamedovprogrammer/" target='_blank'>
+<a href="https://www.facebook.com/mamedovprogrammer/" target='_blank'>
 	<img src="https://img.shields.io/badge/facebook-Ibrahim-%231877F2?logo=facebook">
 </a>
 <a href="https://t.me/IbraGMan" target='_blank'>
