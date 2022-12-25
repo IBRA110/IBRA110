@@ -5,12 +5,14 @@
 # Hi there 👋 I'm a Front-end developer
 
 ## Contact
-<a href="https://www.facebook.com/mamedovprogrammer/"><img src="https://img.shields.io/badge/facebook-Ibrahim-%231877F2?logo=facebook"></a>
-
-<a href="https://t.me/IbraGMan" target='_blank'>
-		<img src="https://img.shields.io/badge/telegram-Ibrahim-14aae5?logo=telegram" />
+<div style="display: flex;"
+<a href="https://www.facebook.com/mamedovprogrammer/">
+	<img src="https://img.shields.io/badge/facebook-Ibrahim-%231877F2?logo=facebook">
 </a>
-
+<a href="https://t.me/IbraGMan" target='_blank'>
+	<img src="https://img.shields.io/badge/telegram-Ibrahim-14aae5?logo=telegram" />
+</a>
+</div>
 </br>
 
 ## Technology stack
