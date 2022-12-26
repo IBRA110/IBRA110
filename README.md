@@ -7,14 +7,14 @@
 ## Contact
 <div style="display: flex;">
 <a href="https://www.facebook.com/mamedovprogrammer/" target='_blank'>
-	<img src="https://img.shields.io/badge/facebook-Ibrahim-%231877F2?logo=facebook">
+	<img src="https://img.shields.io/badge/Ibrahim-FaceBook-%231877F2?logo=facebook">
 </a>
 <a href="https://t.me/IbraGMan" target='_blank'>
-	<img src="https://img.shields.io/badge/telegram-Ibrahim-14aae5?logo=telegram" />
+	<img src="https://img.shields.io/badge/Ibrahim-Telegram-14aae5?logo=telegram" />
 </a>
 
 <a href="https://wa.me/905372614107" target='_blank'>
-	<img src="https://img.shields.io/badge/whatsapp-Ibrahim-%2325D366?logo=whatsapp" />
+	<img src="https://img.shields.io/badge/Ibrahim-WhatsApp-%2325D366?logo=whatsapp" />
 </a>
 </div>
 
