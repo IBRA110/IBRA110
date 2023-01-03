@@ -56,7 +56,7 @@
 <img src='images/vscode.png' style="width: 50px; height: 50px;">
 <img src='images/git.png' style="width: 50px; height: 50px;">
 <img src='images/github.png' style="width: 50px; height: 50px;">
-<img src='images/docker.png' style="width: 70px; height: 60px;">
+<img src='images/docker.png' style="width: 60px; height: 55px;">
 <img src='images/postman.png' style="width: 50px; height: 50px;">
 </div>
 
