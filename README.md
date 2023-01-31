@@ -59,7 +59,7 @@
 <img src='images/docker.png' style="width: 60px; height: 55px;">
 <img src='images/postman.png' style="width: 50px; height: 50px;">
 </div>
-
+<div style='width: 200px'>
 ## Seldom I use
 
 <div class='end'>
@@ -68,7 +68,7 @@
 </div>
 
 ## 𝗦𝘁𝗮𝘁𝘀
-<div style='width: 200px'>
+
 ![IBRA110 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IBRA110&layout=compact&count_private=true&theme=tokyonight)
 ![IBRA110 github stats](https://github-readme-stats.vercel.app/api?username=IBRA110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=IBRA110&theme=tokyonight&locale=en)](https://git.io/streak-stats)
