@@ -68,7 +68,7 @@
 </div>
 
 ## 𝗦𝘁𝗮𝘁𝘀
-![IBRA110 github stats](https://github-readme-stats.vercel.app/api?username=IBRA110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![IBRA110 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IBRA110&layout=compact&count_private=true&theme=tokyonight)
+![IBRA110 github stats](https://github-readme-stats.vercel.app/api?username=IBRA110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=IBRA110&theme=tokyonight&locale=en)](https://git.io/streak-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IBRA110&theme=tokyonight)
