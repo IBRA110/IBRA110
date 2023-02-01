@@ -68,8 +68,8 @@
 </div>
 
 ## 𝗦𝘁𝗮𝘁𝘀
-<img height=300 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBRA110&layout=compact&count_private=true&theme=tokyonight" alt="" />
-<img height=300 width=400 src="https://github-readme-stats.vercel.app/api?username=IBRA110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="" />
+<img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBRA110&layout=compact&count_private=true&theme=tokyonight" alt="" />
+<img width=400 src="https://github-readme-stats.vercel.app/api?username=IBRA110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="" />
 <img height=300 width=400 src="https://github-readme-stats.vercel.app/api?username=IBRA110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="" />
 <img height=300 width=400 src="https://streak-stats.demolab.com?user=IBRA110&theme=tokyonight&locale=en)](https://git.io/streak-stats" alt="" />
 <img height=300 width=400 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IBRA110&theme=tokyonight" alt="" />
