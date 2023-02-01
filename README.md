@@ -68,7 +68,7 @@
 </div>
 
 ## 𝗦𝘁𝗮𝘁𝘀
-<img height=500 width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBRA110&layout=compact&count_private=true&theme=tokyonight" alt="" />
+<img height=300 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBRA110&layout=compact&count_private=true&theme=tokyonight" alt="" />
 ![IBRA110 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IBRA110&layout=compact&count_private=true&theme=tokyonight)
 ![IBRA110 github stats](https://github-readme-stats.vercel.app/api?username=IBRA110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 <!-- <img height=200 width=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBRA110&layout=compact&count_private=true&theme=tokyonight" alt="" />
