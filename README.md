@@ -50,7 +50,6 @@
 <div class='end'>
 <img src='images/linux.png' style="width: 50px; height: 50px;">
 <img src='images/debian.png' style="width: 50px; height: 50px;">
-<img src='images/bash.png' style="width: 50px; height: 50px;">
 <img src='images/vim.png' style="width: 50px; height: 50px;">
 <img src='images/neovim.png' style="width: 50px; height: 50px;">
 <img src='images/vscode.png' style="width: 50px; height: 50px;">
@@ -64,7 +63,7 @@
 
 <div class='end'>
 <img src='images/python.png' style="width: 50px; height: 50px;">
-<img src='images/django.png' style="width: 50px; height: 50px;">
+<img src='images/bash.png' style="width: 50px; height: 50px;">
 </div>
 
 ## 𝗦𝘁𝗮𝘁𝘀
