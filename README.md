@@ -30,6 +30,8 @@
 <img src='images/css3.png' style="width: 50px; height: 50px;">
 <img src='images/javascript.png' style="width: 50px; height: 50px;">
 <img src='images/typescript.png' style="width: 50px; height: 50px;">
+</div>
+<div class='end'>
 <img src='images/angular.png' style="width: 50px; height: 50px;">
 <img src='images/rxjs.png' style="width: 50px; height: 50px;">
 <img src='images/ngrx.png' style="width: 52px; height: 52px;">
