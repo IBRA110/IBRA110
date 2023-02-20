@@ -76,11 +76,12 @@
 <img src='images/bash.png' style="width: 50px; height: 50px;">
 </div>
 
+
+<!--
 ### 𝗦𝘁𝗮𝘁𝘀
 
 ![IBRA110 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IBRA110&layout=compact&count_private=true&theme=tokyonight)
 
-<!--
 ![IBRA110 github stats](https://github-readme-stats.vercel.app/api?username=IBRA110&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBRA110&layout=compact&count_private=true&theme=tokyonight" alt="" />
  <img height=200 width=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=IBRA110&layout=compact&count_private=true&theme=tokyonight" alt="" />
