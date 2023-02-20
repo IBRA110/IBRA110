@@ -20,7 +20,7 @@
 
 ## Technology stack
 
-## Front-End
+### Front-End
 
 <img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="350" height="220" />
 
@@ -40,7 +40,7 @@
 <img src='images/apex.png' style="width: 50px; height: 50px;">
 </div>
 
-## Back-End
+### Back-End
 <div class='end'>
 <img src='images/csharp.png' style="width: 50px; height: 50px;">
 <img src='images/netCore.png' style="width: 50px; height: 50px;">
@@ -48,14 +48,14 @@
 <img src='images/signalR.png' style="width: 50px; height: 50px;">
 </div>
 
-## API
+### API
 <div class='end'>
 <img src='images/graphql.png' style="width: 50px; height: 50px;">
 <img src='images/restAPI.png' style="width: 50px; height: 50px;">
 <img src='images/websocket.png' style="width: 50px; height: 50px;">
 </div>
 
-## Tools
+### Tools
 
 <div class='end'>
 <img src='images/linux.png' style="width: 50px; height: 50px;">
@@ -69,14 +69,14 @@
 <img src='images/postman.png' style="width: 50px; height: 50px;">
 </div>
 
-## Seldom I use
+### Seldom I use
 
 <div class='end'>
 <img src='images/python.png' style="width: 50px; height: 50px;">
 <img src='images/bash.png' style="width: 50px; height: 50px;">
 </div>
 
-## 𝗦𝘁𝗮𝘁𝘀
+### 𝗦𝘁𝗮𝘁𝘀
 
 ![IBRA110 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IBRA110&layout=compact&count_private=true&theme=tokyonight)
 
