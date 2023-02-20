@@ -40,16 +40,19 @@
 <img src='images/apex.png' style="width: 52px; height: 50px;">
 </div>
 
-## Front-end
-<img src='images/graphql.png' style="width: 50px; height: 50px;">
-<img src='images/restAPI.png' style="width: 50px; height: 50px;">
-
 ## Back-End
 <div class='end'>
 <img src='images/csharp.png' style="width: 50px; height: 50px;">
 <img src='images/netCore.png' style="width: 50px; height: 50px;">
 <img src='images/entityFramework.png' style="width: 50px; height: 50px;">
 <img src='images/signalR.png' style="width: 50px; height: 50px;">
+</div>
+
+## API
+<div class='end'>
+<img src='images/graphql.png' style="width: 50px; height: 50px;">
+<img src='images/restAPI.png' style="width: 50px; height: 50px;">
+<img src='images/websocket.png' style="width: 50px; height: 50px;">
 </div>
 
 ## Tools
