@@ -20,7 +20,7 @@
 
 ## Technology stack
 
-## Front-end
+## Front-End
 
 <img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="350" height="220" />
 
