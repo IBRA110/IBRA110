@@ -28,6 +28,7 @@
 <div class='end'>
 <img src='images/html5.png' style="width: 50px; height: 50px;">
 <img src='images/css3.png' style="width: 50px; height: 50px;">
+<img src='images/sass.png' style="width: 50px; height: 50px;">
 <img src='images/javascript.png' style="width: 50px; height: 50px;">
 <img src='images/typescript.png' style="width: 50px; height: 50px;">
 </div>
