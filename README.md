@@ -35,7 +35,7 @@
 <div class='end'>
 <img src='images/angular.png' style="width: 50px; height: 50px;">
 <img src='images/rxjs.png' style="width: 50px; height: 50px;">
-<img src='images/ngrx.png' style="width: 52px; height: 52x;">
+<img src='images/ngrx.png' style="width: 50x; height: 50;">
 <img src='images/material.png' style="width: 50px; height: 50px;">
 <img src='images/apex.png' style="width: 50px; height: 50px;">
 </div>
