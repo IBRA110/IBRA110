@@ -7,10 +7,10 @@
 ## Contact
 <div style="display: flex;">
 <a href="https://www.facebook.com/mamedovprogrammer/" target='_blank'>
-	<img src="https://img.shields.io/badge/Ibrahim-FaceBook-%231877F2?logo=facebook">
+<img src="https://img.shields.io/badge/Ibrahim-FaceBook-%231877F2?logo=facebook">
 </a>
 <a href="https://t.me/IbraGMan" target='_blank'>
-	<img src="https://img.shields.io/badge/Ibrahim-Telegram-14aae5?logo=telegram" />
+<img src="https://img.shields.io/badge/Ibrahim-Telegram-14aae5?logo=telegram" />
 </a>
 
 <a href="https://wa.me/905372614107" target='_blank'>
@@ -26,7 +26,9 @@
 
 
 <div class='end'>
+<a href="https://t.me/IbraGMan" target='_blank'>
 <img src='images/html5.png' style="width: 50px; height: 50px;">
+</a>
 <img src='images/css3.png' style="width: 50px; height: 50px;">
 <img src='images/sass.png' style="width: 50px; height: 50px;">
 <img src='images/javascript.png' style="width: 50px; height: 50px;">
