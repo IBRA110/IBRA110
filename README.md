@@ -46,6 +46,7 @@
 <img src='images/netCore.png' style="width: 50px; height: 50px;">
 <img src='images/entityFramework.png' style="width: 50px; height: 50px;">
 <img src='images/signalR.png' style="width: 50px; height: 50px;">
+<img src='images/hotChocolate.png' style="width: 50px; height: 50px;">
 </div>
 
 ### API
