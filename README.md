@@ -26,13 +26,22 @@
 
 
 <div class='end'>
-<a href="https://t.me/IbraGMan" target='_blank'>
-<img src='images/html5.png' style="width: 50px; height: 50px;">
+<a href="https://html.com/" target='_blank'>
+	<img src='images/html5.png' style="width: 50px; height: 50px;">
 </a>
-<img src='images/css3.png' style="width: 50px; height: 50px;">
-<img src='images/sass.png' style="width: 50px; height: 50px;">
-<img src='images/javascript.png' style="width: 50px; height: 50px;">
-<img src='images/typescript.png' style="width: 50px; height: 50px;">
+<a href="https://www.w3schools.com/Css/" target='_blank'>
+	<img src='images/css3.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://sass-lang.com/" target='_blank'>
+	<img src='images/sass.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://www.javascript.com/" target='_blank'>
+	<img src='images/javascript.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://www.typescriptlang.org/" target='_blank'>
+	<img src='images/typescript.png' style="width: 50px; height: 50px;">
+</a>
+
 </div>
 <div class='end'>
 <img src='images/angular.png' style="width: 50px; height: 50px;">
