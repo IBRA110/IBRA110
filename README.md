@@ -41,14 +41,24 @@
 <a href="https://www.typescriptlang.org/" target='_blank'>
 	<img src='images/typescript.png' style="width: 50px; height: 50px;">
 </a>
-
 </div>
+
 <div class='end'>
-<img src='images/angular.png' style="width: 50px; height: 50px;">
-<img src='images/rxjs.png' style="width: 50px; height: 50px;">
-<img src='images/ngrx.png' style="width: 50px; height: 50px;">
-<img src='images/material.png' style="width: 50px; height: 50px;">
-<img src='images/apex.png' style="width: 50px; height: 50px;">
+<a href="https://angular.io/" target='_blank'>
+	<img src='images/angular.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://rxjs.dev/" target='_blank'>
+	<img src='images/rxjs.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://ngrx.io/" target='_blank'>
+	<img src='images/ngrx.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://material.angular.io/" target='_blank'>
+	<img src='images/material.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://apexcharts.com/" target='_blank'>
+	<img src='images/apex.png' style="width: 50px; height: 50px;">
+</a>	
 </div>
 
 ### Back-End
