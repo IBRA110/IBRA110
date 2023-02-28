@@ -63,8 +63,12 @@
 
 ### Back-End
 <div class='end'>
-<img src='images/csharp.png' style="width: 50px; height: 50px;">
-<img src='images/netCore.png' style="width: 50px; height: 50px;">
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target='_blank'>
+	<img src='images/csharp.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://dotnet.microsoft.com/en-us/" target='_blank'>
+	<img src='images/netCore.png' style="width: 50px; height: 50px;">
+</a>
 <img src='images/entityFramework.png' style="width: 50px; height: 50px;">
 <img src='images/signalR.png' style="width: 50px; height: 50px;">
 <img src='images/hotChocolate.png' style="width: 50px; height: 50px;">
