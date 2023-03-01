@@ -96,22 +96,44 @@
 ### Tools
 
 <div class='end'>
-<img src='images/linux.png' style="width: 50px; height: 50px;">
-<img src='images/debian.png' style="width: 50px; height: 50px;">
-<img src='images/vim.png' style="width: 50px; height: 50px;">
-<img src='images/neovim.png' style="width: 50px; height: 50px;">
-<img src='images/vscode.png' style="width: 50px; height: 50px;">
+<a href="https://www.linux.org/" target='_blank'>
+	<img src='images/linux.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://www.debian.org/" target='_blank'>
+	<img src='images/debian.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://www.vim.org/" target='_blank'>
+	<img src='images/vim.png' style="width: 50px; height: 50px;">
+</a>
+<a href="http://neovim.io/" target='_blank'>
+	<img src='images/neovim.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://code.visualstudio.com/" target='_blank'>
+	<img src='images/vscode.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://git-scm.com/" target='_blank'>
 <img src='images/git.png' style="width: 50px; height: 50px;">
-<img src='images/github.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://github.com/" target='_blank'>
+	<img src='images/github.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://www.docker.com/" target='_blank'>
 <img src='images/docker.png' style="width: 60px; height: 55px;">
-<img src='images/postman.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://www.postman.com/" target='_blank'>
+	<img src='images/postman.png' style="width: 50px; height: 50px;">
+</a>
 </div>
 
 ### Seldom I use
 
 <div class='end'>
-<img src='images/python.png' style="width: 50px; height: 50px;">
-<img src='images/bash.png' style="width: 50px; height: 50px;">
+<a href="https://www.python.org/" target='_blank'>
+	<img src='images/python.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://www.gnu.org/software/bash/manual/bash.html" target='_blank'>
+	<img src='images/bash.png' style="width: 50px; height: 50px;">
+</a>
 </div>
 
 
