@@ -82,9 +82,15 @@
 
 ### API
 <div class='end'>
-<img src='images/graphql.png' style="width: 50px; height: 50px;">
-<img src='images/restAPI.png' style="width: 50px; height: 50px;">
-<img src='images/websocket.png' style="width: 50px; height: 50px;">
+<a href="https://graphql.org/" target='_blank'>
+	<img src='images/graphql.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://swagger.io/" target='_blank'>
+	<img src='images/restAPI.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://learn.microsoft.com/en-us/iis/configuration/system.webserver/websocket" target='_blank'>
+	<img src='images/websocket.png' style="width: 50px; height: 50px;">
+</a>
 </div>
 
 ### Tools
