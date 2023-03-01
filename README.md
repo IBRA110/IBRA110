@@ -69,9 +69,15 @@
 <a href="https://dotnet.microsoft.com/en-us/" target='_blank'>
 	<img src='images/netCore.png' style="width: 50px; height: 50px;">
 </a>
-<img src='images/entityFramework.png' style="width: 50px; height: 50px;">
-<img src='images/signalR.png' style="width: 50px; height: 50px;">
-<img src='images/hotChocolate.png' style="width: 50px; height: 50px;">
+<a href="https://learn.microsoft.com/en-us/ef/" target='_blank'>
+	<img src='images/entityFramework.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr" target='_blank'>
+	<img src='images/signalR.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://chillicream.com/" target='_blank'>
+	<img src='images/hotChocolate.png' style="width: 50px; height: 50px;">
+</a>
 </div>
 
 ### API
