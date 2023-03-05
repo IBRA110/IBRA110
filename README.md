@@ -22,7 +22,7 @@
 
 ### Front-End
 
-<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="400" height="220" />
+<img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="400" height="320" />
 
 
 <div class='end'>
