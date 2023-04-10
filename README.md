@@ -2,7 +2,7 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
  
-# Hi there 👋 I'm a Front-End developer
+# Hi there 👋 I'm a Developer
 
 ## Contact
 <div style="display: flex;">
