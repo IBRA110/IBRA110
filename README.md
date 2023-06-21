@@ -15,8 +15,8 @@
 <a href="https://wa.me/905372614107" target='_blank'>
 <img src="https://img.shields.io/badge/Ibrahim-WhatsApp-%2325D366?logo=whatsapp" />
 </a>
-<a href="https://wa.me/905372614107" target='_blank'>
-<img src="https://img.shields.io/badge/Ibrahim-Gmail-%2325D366?logo=gmail" />
+<a href="mamedovarbeiter@gmail.com7" target='_blank'>
+<img src="https://img.shields.io/badge/Ibrahim-Gmail-EA4335?logo=gmail" />
 </a>
 </div>
 
