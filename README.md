@@ -77,10 +77,10 @@
 	<img src='images/signalR.png' style="width: 50px; height: 50px;">
 </a>
 <div class='end'>
-<a href="https://chillicream.com/" target='_blank'>
+<a href="https://chillicream.com/docs/hotchocolate/" target='_blank'>
 	<img src='images/hotChocolate.png' style="width: 50px; height: 50px;">
 </a>
-<a href="https://chillicream.com/" target='_blank'>
+<a href="https://chillicream.com/docs/strawberryshake/" target='_blank'>
 	<img src='images/strawberryShake.png' style="width: 50px; height: 50px;">
 </a>
 </div>
