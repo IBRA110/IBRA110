@@ -76,12 +76,14 @@
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr" target='_blank'>
 	<img src='images/signalR.png' style="width: 50px; height: 50px;">
 </a>
+<div class='end'>
 <a href="https://chillicream.com/" target='_blank'>
 	<img src='images/hotChocolate.png' style="width: 50px; height: 50px;">
 </a>
 <a href="https://chillicream.com/" target='_blank'>
 	<img src='images/strawberryShake.png' style="width: 50px; height: 50px;">
 </a>
+</div>
 </div>
 
 ### API
