@@ -26,7 +26,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="450" height="300" />
 
-
 <div class='end'>
 <a href="https://html.com/" target='_blank'>
 	<img src='images/html5.png' style="width: 50px; height: 50px;">
@@ -79,6 +78,9 @@
 </a>
 <a href="https://chillicream.com/" target='_blank'>
 	<img src='images/hotChocolate.png' style="width: 50px; height: 50px;">
+</a>
+<a href="https://chillicream.com/" target='_blank'>
+	<img src='images/strawberryShake.png' style="width: 50px; height: 50px;">
 </a>
 </div>
 
