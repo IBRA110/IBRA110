@@ -5,6 +5,7 @@
 # Hi there 👋 I'm a Developer
 
 ## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibragim-mamedov-900032236/)
 <div style="display: flex;">
 <a href="https://www.facebook.com/mamedovprogrammer/" target='_blank'>
 <img src="https://img.shields.io/badge/FaceBook-%231877F2?logo=facebook">
