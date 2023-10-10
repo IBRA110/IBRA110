@@ -7,14 +7,11 @@
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibragim-mamedov-900032236/)
 [![FaceBook](https://img.shields.io/badge/FaceBook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/mamedovprogrammer/)
-[![Telegram](https://img.shields.io/badge/Telegram-14aae5.svg?logo=telegram&logoColor=white)](https://www.facebook.com/mamedovprogrammer/)
+[![Telegram](https://img.shields.io/badge/Telegram-14aae5.svg?logo=telegram&logoColor=white)](https://t.me/IbraGMan)
+[![WhatsApp](https://img.shields.io/badge/Ibrahim-WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/905372614107)
+
 <div style="display: flex;">
-<a href="https://www.facebook.com/mamedovprogrammer/" target='_blank'>
-<img src="https://img.shields.io/badge/FaceBook-%231877F2?logo=facebook">
-</a>
-<a href="https://t.me/IbraGMan" target='_blank'>
-<img src="https://img.shields.io/badge/Telegram-14aae5?logo=telegram" />
-</a>
+
 <a href="https://wa.me/905372614107" target='_blank'>
 <img src="https://img.shields.io/badge/Ibrahim-WhatsApp-%2325D366?logo=whatsapp" />
 </a>
