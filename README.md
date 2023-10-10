@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/FaceBook-%231877F2?logo=facebook">
 </a>
 <a href="https://t.me/IbraGMan" target='_blank'>
-<img src="https://img.shields.io/badge/Ibrahim-Telegram-14aae5?logo=telegram" />
+<img src="https://img.shields.io/badge/Telegram-14aae5?logo=telegram" />
 </a>
 <a href="https://wa.me/905372614107" target='_blank'>
 <img src="https://img.shields.io/badge/Ibrahim-WhatsApp-%2325D366?logo=whatsapp" />
