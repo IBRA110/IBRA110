@@ -9,7 +9,7 @@
 [![FaceBook](https://img.shields.io/badge/FaceBook-%234267B2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/mamedovprogrammer/)
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?logo=telegram&logoColor=white)](https://t.me/IbraGMan)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2334B7F1.svg?logo=whatsapp&logoColor=white)](https://wa.me/905372614107)
-[![Gmail](https://img.shields.io/badge/Gmail-%23c21717.svg?logo=whatsapp&logoColor=white)](https://mail.google.com/mail/u/0/#search/mamedovarbeiter%40gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23BB001B.svg?logo=whatsapp&logoColor=white)](https://mail.google.com/mail/u/0/#search/mamedovarbeiter%40gmail.com)
 
 ## Technology stack
 
