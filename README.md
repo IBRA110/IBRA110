@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibragim-mamedov-900032236/)
 [![FaceBook](https://img.shields.io/badge/FaceBook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/mamedovprogrammer/)
 [![Telegram](https://img.shields.io/badge/Telegram-14aae5.svg?logo=telegram&logoColor=white)](https://t.me/IbraGMan)
-[![WhatsApp](https://img.shields.io/badge/Ibrahim-WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/905372614107)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/905372614107)
 
 <div style="display: flex;">
 
