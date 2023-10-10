@@ -7,9 +7,7 @@
 ## Contact
 <div style="display: flex;">
 <a href="https://www.facebook.com/mamedovprogrammer/" target='_blank'>
-	
-	[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://img.shields.io/badge/Ibrahim-FaceBook-%231877F2?logo=facebook)
-<img src="https://img.shields.io/badge/Ibrahim-FaceBook-%231877F2?logo=facebook">
+<img src="https://img.shields.io/badge/FaceBook-%231877F2?logo=facebook">
 </a>
 <a href="https://t.me/IbraGMan" target='_blank'>
 <img src="https://img.shields.io/badge/Ibrahim-Telegram-14aae5?logo=telegram" />
