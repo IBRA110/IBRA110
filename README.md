@@ -10,10 +10,10 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?logo=telegram&logoColor=white)](https://t.me/IbraGMan)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2434B7F1.svg?logo=whatsapp&logoColor=white)](https://wa.me/905372614107)
 [![Gmail](https://img.shields.io/badge/Gmail-%23BB001B.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#search/mamedovib.dev@gmail.com)
-[![YouTube](https://img.shields.io/badge/youtube-%23BB001B.svg?logo=youtube&logoColor=white)](https://mail.google.com/mail/u/0/#search/mamedovib.dev@gmail.com)
+
 <!--
 ## Technology stack
-
+[![YouTube](https://img.shields.io/badge/youtube-%23BB001B.svg?logo=youtube&logoColor=white)](https://mail.google.com/mail/u/0/#search/mamedovib.dev@gmail.com)
 ### Front-End
 
 <img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="450" height="300" />
