@@ -10,7 +10,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%230088cc.svg?logo=telegram&logoColor=white)](https://t.me/IbraGMan)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2434B7F1.svg?logo=whatsapp&logoColor=white)](https://wa.me/905372614107)
 [![Gmail](https://img.shields.io/badge/Gmail-%23BB001B.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#search/mamedovib.dev@gmail.com)
-
+<!--
 ## Technology stack
 
 ### Front-End
@@ -133,8 +133,6 @@
 </a>
 </div>
 
-
-<!--
 ### 𝗦𝘁𝗮𝘁𝘀
 
 ![IBRA110 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IBRA110&layout=compact&count_private=true&theme=tokyonight)
